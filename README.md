@@ -1,4 +1,4 @@
-## fullstack-employee managment system 
+## fullstack-employee managment system (garduation project)
 A full-stack web application for managing employees, departments, and roles efficiently.
 ## Features
 - User authentication (JWT-based)
